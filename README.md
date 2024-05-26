@@ -19,7 +19,7 @@ This project implements an evolutionary algorithm to generate a timetable while 
 You need to preprocess the data as shown in the start of the `Evoltionary_Timetable_using_Genetic_Algorithm.ipynb` to match the format used in `data/Input/Course Allocation.xlsx`.
 
 ## How to Run
-- Clone or download this repository an just run the jupyter notbook file
+- Clone or download this repository and just run the jupyter notbook file
 - Yes its that simple 🧁
   
 ## Contributing
